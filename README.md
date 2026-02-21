@@ -8,7 +8,7 @@ This is the official release repository for the **Reborn XP** desktop applicatio
 
 The secure and official download for the free Reborn XP desktop app is available on our website:
 
-[**➡️ store.quenq.com/l/desktop-app**](https://store.quenq.com/l/desktop-app)
+[**➡️ quenq.gumroad.com/l/desktop-app**](https://quenq.gumroad.com/l/desktop-app)
 
 ---
 
