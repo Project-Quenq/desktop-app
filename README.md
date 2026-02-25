@@ -6,7 +6,7 @@ This is the official release repository for the **Reborn XP** desktop applicatio
 
 ## 📥 Download the Official App
 
-The secure and official download for the free Reborn XP desktop app is available on our website:
+The secure and official download for the free Reborn XP desktop app is available on our store:
 
 [**➡️ quenq.gumroad.com/l/desktop-app**](https://quenq.gumroad.com/l/desktop-app)
 
@@ -18,7 +18,7 @@ The secure and official download for the free Reborn XP desktop app is available
 
 This setup allows the auto-updater in the desktop app to check for new versions published in the **[Releases](https://github.com/Quenq-Systems/desktop-app/releases)** section and provide seamless updates to users.
 
-### 🐛 Support & Feedback
+### Support & Feedback
 
 For bug reports, feature suggestions, or general discussion about Reborn XP, please join our official community on Discord.
 
